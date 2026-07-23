@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=128CCF&center=true&vCenter=true&width=650&lines=React+Developer+⚛️;MERN+Stack+Learner+🚀;Building+AI+Powered+Projects+🤖;Always+Learning+New+Technologies+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=128CCF&center=true&vCenter=true&width=620&lines=Next.js+Specialist+⚡;Passionate+About+Scalable+Systems+🚀;Building+Real-World+Products+💻;Insanely+Consistent+—+I+Finish+What+I+Start+✅" alt="Typing SVG" />
 </p>
 
 <!-- ─────────────────────────  PROFILE STATS  ────────────────────────── -->
@@ -35,14 +35,14 @@
 <img align="right" width="330" alt="coding"
     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-- 🔭 &nbsp;**Currently building** → [**Procraft – AI Resume Builder**](https://procraft-ai-resume.vercel.app/) &amp;
-interactive virtual labs
-- 🌱 &nbsp;**Learning** → Next.js, AWS Cloud, Scalable System Design
-- 📚 &nbsp;**Strengthening** → DSA · OS · DBMS · Computer Networks · OOP
-- 🎯 &nbsp;**Goal** → Crafting real-world products to break into top-tier product roles
-- 💬 &nbsp;**Ask me about** → Frontend, React, Next.js, Architecture &amp; UI/UX
-- 📫 &nbsp;**Reach me** → [sagarwaghmare1384@gmail.com](mailto:sagarwaghmare1384@gmail.com)
-- ⚡ &nbsp;**Fun fact** → I'm *insanely consistent* — if I start it, I finish it with perfection
+- 🔭 &nbsp;**Currently building** → AI-powered React Applications, Modern Portfolio Projects &amp; MERN Stack Solutions
+- 🌱 &nbsp;**Learning** → Advanced React, Node.js, Express.js, MongoDB &amp; Scalable System Design
+- 📚 &nbsp;**Strengthening** → DSA · JavaScript · DBMS · Operating Systems · Computer Networks
+- 🎯 &nbsp;**Goal** → Building innovative AI-driven products and growing into a Full-Stack Software Engineer
+- 💬 &nbsp;**Ask me about** → React.js, JavaScript, MERN Stack, APIs &amp; Frontend Development
+- 🌐 &nbsp;**Portfolio** → [abinashshubham.github.io/my-portfolio](https://abinashshubham.github.io/my-portfolio/)
+- 📫 &nbsp;**Reach me** → [abinashshubham@gmail.com](mailto:abinashshubham@gmail.com)
+- ⚡ &nbsp;**Fun fact** → I love creating visually appealing, interactive web applications and continuously exploring new technologies.
 
 <br clear="right" />
 
