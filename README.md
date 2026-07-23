@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=128CCF&center=true&vCenter=true&width=620&lines=Next.js+Specialist+⚡;Passionate+About+Scalable+Systems+🚀;Building+Real-World+Products+💻;Insanely+Consistent+—+I+Finish+What+I+Start+✅" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=128CCF&center=true&vCenter=true&width=650&lines=React+Developer;MERN+Stack+Learner;Building+AI+Powered+Projects&t=1" />
 </p>
 
 <!-- ─────────────────────────  PROFILE STATS  ────────────────────────── -->
