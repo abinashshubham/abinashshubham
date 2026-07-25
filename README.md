@@ -171,4 +171,4 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:128CCF,100:0e75b6&height=120&section=footer"
-    width="98%" alt="footer" />
+    width="100%" alt="footer" />
