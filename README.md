@@ -133,9 +133,11 @@
 </p>
 
 <p align="center">
-    <img width="90%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=abinashshubham&theme=tokyonight&hide_border=true&background=1A1B27&ring=128CCF&fire=0e75b6&currStreakLabel=128CCF"
-        alt="GitHub Streak" />
+  <img
+    width="90%"
+    src="https://streak-stats.demolab.com?user=abinashshubham&theme=tokyonight&hide_border=true&background=1A1B27&ring=128CCF&fire=0E75B6&currStreakLabel=128CCF"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
