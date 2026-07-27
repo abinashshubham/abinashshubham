@@ -132,7 +132,9 @@
   />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinashshubham&show_icons=true)
+# Test
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 <p align="center">
     <img width="95%"
