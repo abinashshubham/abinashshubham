@@ -30,20 +30,53 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Icons](https://skillicons.dev/icons?i=js,java,c)
+## 🛠️ Tech Stack
 
-### Frontend
-![Icons](https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap)
+### 💻 Programming Languages
 
-### Backend
-![Icons](https://skillicons.dev/icons?i=nodejs,express)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,c,cpp,python" />
+</p>
 
-### Database
-![Icons](https://skillicons.dev/icons?i=mongodb,mysql)
+---
 
-### Tools
-![Icons](https://skillicons.dev/icons?i=git,github,vscode,postman)
+### 🎨 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,bootstrap" />
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify" />
+</p>
+
+---
+
+### 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,docker,firebase" />
+</p>
 
 ## 🚀 Featured Projects
 
