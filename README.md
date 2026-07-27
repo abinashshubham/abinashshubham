@@ -132,7 +132,7 @@
   />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abinashshubham)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinashshubham&show_icons=true)
 
 <p align="center">
     <img width="95%"
