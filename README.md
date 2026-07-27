@@ -60,11 +60,11 @@
 
 > **Note:** The public GitHub Stats services sometimes return 502/503. Uncomment these when the services are available.
 
-```md
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=abinashshubham&show_icons=true&theme=tokyonight)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abinashshubham&layout=compact&theme=tokyonight)
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=abinashshubham&theme=tokyo-night)
-```
+
 
 ## 🐍 Contribution Snake
 
