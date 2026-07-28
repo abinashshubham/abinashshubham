@@ -106,10 +106,7 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abinashshubham&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinashshubham&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
+
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abinashshubham&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=128CCF&line=0e75b6&point=ffffff&area=true"/>
